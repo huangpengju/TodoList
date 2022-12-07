@@ -1,8 +1,7 @@
 module TodoList
 
-<<<<<<< HEAD
-go 1.18
-=======
+
+
 go 1.19
 
 require (
@@ -39,4 +38,4 @@ require (
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
->>>>>>> 786ab24 (go web项目基于gin+gorm开发的备忘录)
+
